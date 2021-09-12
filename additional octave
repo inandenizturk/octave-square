@@ -19,3 +19,6 @@ x3toplam
 x4ler= [3,3];
 x4toplam =[ ];
 for x = x4ler
+  x4toplam = [x4ler(1)+x4ler(2)];
+endfor
+x4toplam
