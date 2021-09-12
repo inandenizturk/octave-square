@@ -1,0 +1,33 @@
+x1ler= [2,3];
+x1toplam =[ ];
+for x = x1ler
+  x1toplam = [x1ler(1)+x1ler(2)];
+endfor
+x1toplam
+x2ler= [1,5];
+x2toplam =[ ];
+for x = x2ler
+  x2toplam = [x2ler(1)+x2ler(2)];
+endfor
+x2toplam
+x3ler= [2,5];
+x3toplam =[ ];
+for x = x1ler
+  x3toplam = [x3ler(1)+x3ler(2)];
+endfor
+x3toplam
+x4ler= [3,3];
+x4toplam =[ ];
+for x = x4ler
+  x4toplam = [x4ler(1)+x4ler(2)];
+endfor
+x4toplam
+
+sonucverileri = [5,6,7,6];
+sonucverilerikareler = [ ];
+
+for z = sonucverileri
+  sonucverilerikareler = [sonucverilerikareler z*z];
+endfor
+sonucverilerikareler
+  
