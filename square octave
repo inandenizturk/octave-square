@@ -30,4 +30,11 @@ for z = sonucverileri
   sonucverilerikareler = [sonucverilerikareler z*z];
 endfor
 sonucverilerikareler
+x4toplam
+x3toplam
+x2toplam
+x1toplam
   
+
+ 
+ 
